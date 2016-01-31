@@ -18,6 +18,7 @@ UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0_/lbr/diy-modules-1.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0_/lbr/relay-1.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0_/lbr/resistor-1.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0_/lbr/uln-udn.lbr"
+UsedLibrary="Harvware/lbr/dframes_1.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/ch340.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/con-phoenix-254.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/SparkFun/SparkFun-Electromechanical.lbr"
@@ -25,8 +26,8 @@ UsedLibrary="C:/Darbas/GitHub/Calunium/hardware/lbr/SteveMarple-Eagle-Library/St
 
 [Win_1]
 Type="Control Panel"
-Loc="26 149 1861 897"
-State=2
+Loc="26 149 1708 642"
+State=1
 Number=0
 
 [Desktop]
