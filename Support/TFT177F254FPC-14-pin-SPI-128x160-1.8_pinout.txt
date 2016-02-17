@@ -1,0 +1,16 @@
+Pinout:
+
+    1 NC
+    2 VSS
+    3 LED-
+    4 LED+
+    5 VSS
+    6 /RET
+    7 A0
+    8 SDA
+    9 SCK
+    10 VDDA
+    11 VDDIC
+    12 /CS
+    13 VSS
+    14 NC
