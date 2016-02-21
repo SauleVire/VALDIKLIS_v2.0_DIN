@@ -1,0 +1,34 @@
+#define Relay12 0
+#define B_termostatas 1 // boilerio termostatas Relë 11
+#define MV_K_21 2 // motorizuotas voþtuvas katiui, 2.1 Uþdarymas Relë 10
+#define MV_K_11 3 // motorizuotas voþtuvas katiui, 1.1 Atidarymas Relë 9
+#define MV_A_21 29 // motorizuotas voþtuvas akumuliacinei 2.1 Uþdarymas Relë 8
+#define MV_A_11 13 // motorizuotas voþtuvas akumuliacinei 1.1 Atidarymas Relë 7
+#define PVsiurblys 14 // PV siurblys Relë 6
+#define PVuzdarymas 15 // PV uþdarymas Relë 5
+#define PVatidarymas 16 // PV atidarymas Relë 4
+#define BSiurblys 17 // B siurblio junginëjimui Relë 3
+#define ATSiurblys 19 // AT siurblio junginëjimui Relë 2
+#define SKSiurblys 18 // SK siurblio junginëjimui Relë 1 (12V, tranzistorius)
+
+ið viso - 12 iðvadø
+
+/* ************************** davikliai *********************** */
+#define ONE_WIRE_BUS1 20
+#define ONE_WIRE_BUS2 21
+#define ONE_WIRE_BUS3 22
+#define ONE_WIRE_BUS4 23
+#define ONE_WIRE_BUS5 24
+#define ONE_WIRE_BUS6 25
+#define ONE_WIRE_BUS7 26
+#define ONE_WIRE_BUS8 27
+#define ONE_WIRE_BUS9 28
+
+ið viso - 9 iðvadai
+klaviatûra - 1 iðvadas
+TFT ekranas - 6 iðvadai
+RTC 2 iðvadai
+enc28j60 - 6 iðvadai
+bootloaderis - 2
+esp2866 - 2
+Ið viso - 40
